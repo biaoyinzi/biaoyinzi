@@ -30,7 +30,7 @@
 目前也可以在Linux上使用，安装方法类似于Mac。我们将于2017年推出安卓和iPhone版。
 
 ## Javascript转码库
-$ node byz-test.js
+$ node [byz-test.js](https://github.com/biaoyinzi/biaoyinzi/blob/master/src/nodejs/byz-test.js)
 
 ![]
 (https://raw.githubusercontent.com/wiki/biaoyinzi/biaoyinzi/images/byz-test.png)
