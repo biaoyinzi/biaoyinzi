@@ -32,5 +32,4 @@
 ## Javascript转码库
 $ node [byz-test.js](https://github.com/biaoyinzi/biaoyinzi/blob/master/src/nodejs/byz-test.js)
 
-![调用实例]
-(https://raw.githubusercontent.com/wiki/biaoyinzi/biaoyinzi/images/byz-test.png)
+![调用实例](https://raw.githubusercontent.com/wiki/biaoyinzi/biaoyinzi/images/byz-test.png)
