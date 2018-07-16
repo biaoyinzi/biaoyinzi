@@ -6,8 +6,8 @@ function main() {
   console.log(byz.getByz("guo2"));
 
   console.log("Cantonese");
-  console.log(byz.getByz("zung7")); // Jyutpin: zung3
-  console.log(byz.getByz("guok7")); // Jyutpin: gwok3
+  console.log(byz.getByz("zung7")); // Jyutping: zung3
+  console.log(byz.getByz("guok7")); // Jyutping: gwok3
 
   console.log("Korean");
   console.log(byz.getByz("zhung"));
