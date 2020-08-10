@@ -22,7 +22,7 @@
 ## 安装和使用
 在Windows上使用，请点击[Windows安装](https://github.com/biaoyinzi/biaoyinzi/wiki/Windows%E5%AD%97%E4%BD%93%E5%92%8C%E8%BE%93%E5%85%A5%E6%B3%95%E5%AE%89%E8%A3%85)
 
-![安装界面](https://raw.githubusercontent.com/wiki/biaoyinzi/biaoyinzi/images/byz-install.png)
+![安装界面](https://raw.githubusercontent.com/biaoyinzi/biaoyinzi/master/images/byz-install.png)
 
 在Mac上使用，请点击[Mac安装](https://github.com/biaoyinzi/biaoyinzi/wiki/Mac%E5%AD%97%E4%BD%93%E5%92%8C%E8%BE%93%E5%85%A5%E6%B3%95%E5%AE%89%E8%A3%85)
 
@@ -31,4 +31,4 @@
 ## Javascript转码库
 $ node [byz-test.js](https://github.com/biaoyinzi/biaoyinzi/blob/master/src/nodejs/byz-test.js)
 
-![调用实例](https://raw.githubusercontent.com/wiki/biaoyinzi/biaoyinzi/images/byz-test.png)
+![调用实例](https://raw.githubusercontent.com/biaoyinzi/biaoyinzi/master/images/byz-test.png)
